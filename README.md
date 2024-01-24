@@ -28,3 +28,5 @@ Call Functions of Smart Contract:
 Utilize web3.js and Metamask to interact with the deployed contract.
 Execute functions and retrieve transaction details.
 These examples illustrate the step-by-step process of configuring your environment, deploying a contract, and interacting with it using web3.js and Metamask.
+![image](https://github.com/zhuysi/As2-/assets/119056987/07873758-8be7-489b-afe0-4a829241853c)
+
